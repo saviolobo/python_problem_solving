@@ -1,4 +1,4 @@
-#in this cipher, in A to Z the first alphabet  that is A is becomes Z and B becomes Y and C becomes X and so on
+#in this cipher, in A to Z the first alphabet A becomes Z and B becomes Y and C becomes X and so on...
 s=input("Enter the secret message: ")
 
 #removing the spaces if present form the message
