@@ -11,3 +11,5 @@
  3. [Atbash Cipher](https://github.com/saviolobo/python-practice/blob/main/atbashcipher.py)
 
  4. [ROT13](https://github.com/saviolobo/python-practice/blob/main/ROT13cipher.py)
+
+ 5. [Check if a number is a perfect square or not](https://github.com/saviolobo/python-practice/blob/main/perfectsquare.py)
