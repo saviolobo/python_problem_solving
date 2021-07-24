@@ -13,3 +13,5 @@
  4. [ROT13](https://github.com/saviolobo/python-practice/blob/main/ROT13cipher.py)
 
  5. [Check if a number is a perfect square or not](https://github.com/saviolobo/python-practice/blob/main/perfectsquare.py)
+
+ 6. [Sum of first n positive numbers using recursion](https://github.com/saviolobo/python-practice/blob/main/sfirstnrecursion.py)
