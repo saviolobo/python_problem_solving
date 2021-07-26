@@ -15,3 +15,5 @@
  5. [Check if a number is a perfect square or not](https://github.com/saviolobo/python-practice/blob/main/perfectsquare.py)
 
  6. [Sum of first n positive numbers using recursion](https://github.com/saviolobo/python-practice/blob/main/sfirstnrecursion.py)
+
+ 7. [Nth number of fibonacii sequence using recursion](https://github.com/saviolobo/python-practice/blob/main/fiborecur.py)
