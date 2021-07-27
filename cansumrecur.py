@@ -28,4 +28,4 @@ for i in range(0,n):
 
 result=cansum(tsum,a)
 
-print("Targets sum achieved?",result)
+print("Target sum achieved?",result)
