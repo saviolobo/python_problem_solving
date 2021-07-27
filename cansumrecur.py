@@ -1,5 +1,5 @@
 #given sum and array of elements,return true if the elements of array on adding give the sum or return false
-#elements in the array can be used as many times as needed to form sum
+#elements in the array can be used as many times as needed to form sum. sum can be positive number or zero integers.numbers in array can be positive or zero integers
 #using recursion as brute force
 
 import array as arr
