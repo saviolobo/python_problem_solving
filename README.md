@@ -23,3 +23,5 @@
  9. [Grid Traveller using Recursion](https://github.com/saviolobo/python-practice/blob/main/gridtravellerrecur.py)
 
  10. [Grid Traveller using Dynamic Programming](https://github.com/saviolobo/python-practice/blob/main/gridtravellerdp.py)
+
+ 11. [Can Sum Problem using Recursion](https://github.com/saviolobo/python-practice/blob/main/cansumrecur.py)
