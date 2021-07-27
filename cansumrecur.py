@@ -19,7 +19,7 @@ def cansum(tsum,a):
             return "Numbers in array are either 0 or negative"
     return False
 
-#in order to take input as target sum and array of numbers        
+#in order to take input from user for target sum and array of numbers        
 tsum=int(input("Enter the target sum: "))
 n=int(input("Enter the number of elemets for the array: "))
 for i in range(0,n):
