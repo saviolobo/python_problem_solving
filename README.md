@@ -21,3 +21,5 @@
  8. [Nth number of fibonacii sequence using dynamic programming](https://github.com/saviolobo/python-practice/blob/main/fibodp.py)
 
  9. [Grid Traveller using Recursion](https://github.com/saviolobo/python-practice/blob/main/gridtravellerrecur.py)
+
+ 10. [Grid Traveller using Dynamic Programming](https://github.com/saviolobo/python-practice/blob/main/gridtravellerdp.py)
