@@ -27,3 +27,5 @@
  11. [Can Sum Problem using Recursion](https://github.com/saviolobo/python-practice/blob/main/cansumrecur.py)
 
  12. [Can Sum Problem using Dynamic Programming](https://github.com/saviolobo/python-practice/blob/main/cansumdp.py)
+
+ 13. [How Sum Problem using Recursion](https://github.com/saviolobo/python-practice/blob/main/howsumrecur.py)
