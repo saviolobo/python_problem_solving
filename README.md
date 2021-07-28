@@ -29,3 +29,5 @@
  12. [Can Sum Problem using Memoization](https://github.com/saviolobo/python-practice/blob/main/cansumdp.py)
 
  13. [How Sum Problem using Recursion](https://github.com/saviolobo/python-practice/blob/main/howsumrecur.py)
+
+ 14. [How Sum Problem using Memoization](https://github.com/saviolobo/python-practice/blob/main/howsumdp.py)
