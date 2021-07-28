@@ -6,6 +6,7 @@ import array as arr
 a=arr.array('i',[])
 b=arr.array('i',[])
 
+#using dictionary for memoization
 def howsum(tsum,a,dict={}):
     if (tsum in dict):
         return dict[tsum]
