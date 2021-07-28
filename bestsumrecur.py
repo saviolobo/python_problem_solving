@@ -6,7 +6,7 @@ import array as arr
 a=arr.array('i',[])
 comb=arr.array('i',[])
 
-def howsum(tsum,a):
+def bestsum(tsum,a):
     if (tsum==0):
         return []
     if (tsum<0):
@@ -14,7 +14,7 @@ def howsum(tsum,a):
     best=None
     for num in a:
             rem=tsum-num
-            comb=howsum(rem,a)
+            comb=bestsum(rem,a)
             if (comb!=None):   
                 comb.append(num)
                 if (best==None or len(comb)<len(best)):
@@ -30,7 +30,7 @@ for i in range(0,n):
     x=int(input("Enter the number: "))
     a.append(x)
 
-result=howsum(tsum,a)
+result=bestsum(tsum,a)
 
 print("The combination that gives target sum: ",result)
 
