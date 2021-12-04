@@ -33,3 +33,9 @@
  14. [How Sum Problem using Memoization](https://github.com/saviolobo/python-practice/blob/main/howsumdp.py)
 
  15. [Best Sum Problem using Recursion](https://github.com/saviolobo/python-practice/blob/main/bestsumrecur.py)
+
+## References:
+https://en.wikipedia.org/wiki/Atbash
+
+https://youtu.be/oBt53YbR9Kk
+
